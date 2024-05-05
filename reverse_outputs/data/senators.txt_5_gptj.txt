@@ -1,0 +1,303 @@
+Output Target: 
+Prompts: 
+
+Output Target:  Dan Sullivan
+Prompts:  Sen?" Alaska oppositionor
+
+Output Target:  Lisa Murkowski
+Prompts: Deal Alaska" Senate member
+
+Output Target:  Tommy Tuberville
+Prompts:  deliberately have SEC Auburn coach
+
+Output Target:  Richard Shelby
+Prompts:  interest would Alabama Senior senator
+
+Output Target:  John Boozman
+Prompts:  intelligence caucus with Corker Congressman
+
+Output Target:  Tom Cotton
+Prompts: 
+
+Output Target:  Kyrsten Sinema
+Prompts: 
+
+Output Target:  Mark Kelly
+Prompts:  call callNASA crew Captain
+
+Output Target:  Dianne Feinstein
+Prompts:  demonstrators pick weed special Democrat
+
+Output Target:  Alex Padilla
+Prompts:  rival for LA Progressive candidate
+
+Output Target:  John Hickenlooper
+Prompts: 
+
+Output Target:  Michael Bennet
+Prompts:  Center Denver bipartisan leaders Senators
+
+Output Target:  Chris Murphy
+Prompts:  on gun reform­er
+
+Output Target:  Dick Blumenthal
+Prompts: 
+
+Output Target:  Chris Coons
+Prompts: Virginiasth Delaware senior Democrat
+
+Output Target:  Tom Carper
+Prompts:  Com Delaware PicksSenator incumbent
+
+Output Target:  Rick Scott
+Prompts: Florida said Associate Patriant
+
+Output Target:  Marco Rubio
+Prompts: osponsors that Immigration Pluginmann
+
+Output Target:  Jon Ossoff
+Prompts:  Rose' runoff Dem actor
+
+Output Target:  Raphael Warnock
+Prompts: 
+
+Output Target:  Brian Schatz
+Prompts:  Dolphins that Hawaii Independent Senator
+
+Output Target:  Mazie Hirono
+Prompts: 
+
+Output Target:  Chuck Grassley
+Prompts:  allowing Republican obstructionian senator
+
+Output Target:  Joni Ernst
+Prompts: 
+
+Output Target:  Jim Risch
+Prompts: 
+
+Output Target:  Mike Crapo
+Prompts: 
+
+Output Target:  Dick Durbin
+Prompts: 
+
+Output Target:  Tammy Duckworth
+Prompts:  Muslim American DT veterans Senator
+
+Output Target:  Mike Braun
+Prompts:  Coastal reports bombshell falling Democrat
+
+Output Target:  Todd Young
+Prompts: 
+
+Output Target:  Jerry Moran
+Prompts:  Johnson night KansasRepublican Congressman
+
+Output Target:  Roger Marshall
+Prompts: 
+
+Output Target:  Mitch McConnell
+Prompts:  With Senate nationalddenbuster
+
+Output Target:  Rand Paul
+Prompts:  Chevy convention showdown tankSenator
+
+Output Target:  Bill Cassidy
+Prompts:  Rx AONS sponsor Congressman
+
+Output Target:  John Kennedy
+Prompts:  Selling" book Cardinals Senator
+
+Output Target:  Ed Markey
+Prompts: With senior cableART Congressman
+
+Output Target:  Elizabeth Warren
+Prompts:  touting liberal whirlwind shrewie
+
+Output Target:  Ben Cardin
+Prompts:  Abrams reports fellow Maryland Senator
+
+Output Target:  Chris Van Hollen
+Prompts:  reporters on healthcare Appropriationsist
+
+Output Target:  Angus King
+Prompts:  Matt match Maine reformelect
+
+Output Target:  Susan Collins
+Prompts:  colleague seat swamp abortion Senator
+
+Output Target:  Debbie Stabenow
+Prompts:  killing slew Democratic incumbress
+
+Output Target:  Gary Peters
+Prompts:  Lewisy Following regular manager
+
+Output Target:  Tina Smith
+Prompts: 
+
+Output Target:  Amy Klobuchar
+Prompts:  lady like Democrat Judiciaryist
+
+Output Target:  Josh Hawley
+Prompts:  early challengers like Missouri'
+
+Output Target:  Roy Blunt
+Prompts: hold passed toxic Republican senator
+
+Output Target:  Roger Wicker
+Prompts: 
+
+Output Target:  Cindy Hyde-Smith
+Prompts: 
+
+Output Target:  Jon Tester
+Prompts: 
+
+Output Target:  Steve Daines
+Prompts: 
+
+Output Target:  Richard Burr
+Prompts:  ess whether scept committee Chairman
+
+Output Target:  Thom Tillis
+Prompts: D show NC GOP leader
+
+Output Target:  Kevin Cramer
+Prompts: 
+
+Output Target:  John Hoeven
+Prompts: 
+
+Output Target:  Ben Sasse
+Prompts: 
+
+Output Target:  Deb Fischer
+Prompts: With supportingbraska Republicanwoman
+
+Output Target:  Jeanne Shaheen
+Prompts: Iowa governor Senator Laurawoman
+
+Output Target:  Maggie Hassan
+Prompts: 
+
+Output Target:  Cory Booker
+Prompts:  tying out liberal Jersey hero
+
+Output Target:  Robert Menendez
+Prompts:  Perezfor previously portrayingSenator
+
+Output Target:  Martin Heinrich
+Prompts: 
+
+Output Target:  Ben Luján
+Prompts: 
+
+Output Target:  Catherine Cortez-Masto
+Prompts: 
+
+Output Target:  Jacky Rosen
+Prompts: 
+
+Output Target:  Chuck Schumer
+Prompts:  revealed openly NBC Jewish senator
+
+Output Target:  Kirsten Gillibrand
+Prompts:  York to freshman senator Democrat
+
+Output Target:  Rob Portman
+Prompts:  UseThrough Ohio Republican senator
+
+Output Target:  Sherrod Brown
+Prompts:  overth KennOhio incumbentwoman
+
+Output Target:  Jim Inhofe
+Prompts: ​​ OKCSen.
+
+Output Target:  James Lankford
+Prompts:  Cloud Clean Armed appropriations senator
+
+Output Target:  Jeff Merkley
+Prompts: 
+
+Output Target:  Ron Wyden
+Prompts: 209RononsEPA —
+
+Output Target:  Pat Toomey
+Prompts: PatTTO —or
+
+Output Target:  Bob Casey
+Prompts:  campaign on Pennsylvania colleague Senator
+
+Output Target:  Jack Reed
+Prompts:  veterans service Rhode Count Senators
+
+Output Target:  Sheldon Whitehouse
+Prompts:  Wonderland HarvardActor AppropriationsSenator
+
+Output Target:  Lindsey Graham
+Prompts:  1 women,'US Senator
+
+Output Target:  Tim Scott
+Prompts: Finally have Carolina Panthers senator
+
+Output Target:  John Thune
+Prompts:  by Mobility Commerce colleague Senators
+
+Output Target:  Mike Rounds
+Prompts: Iowa Nativeter RogersSenator
+
+Output Target:  Marsha Blackburn
+Prompts:  conservative group unveiled Chairwoman
+
+Output Target:  Bill Hagerty
+Prompts: 
+
+Output Target:  John Cornyn
+Prompts: onew GOPidanse heavyweight
+
+Output Target:  Ted Cruz
+Prompts: Fans leave apocalyptic conservativeer
+
+Output Target:  Mike Lee
+Prompts:  MLS District reveal Services boxer
+
+Output Target:  Mitt Romney
+Prompts: Americans for Financial presumptive leader
+
+Output Target:  Mark Warner
+Prompts:  Hart said suspected Democrat wizard
+
+Output Target:  Tim Kaine
+Prompts:  running states Richmond incumb Senator
+
+Output Target:  Bernie Sanders
+Prompts:  Cantor Clinton Sencator
+
+Output Target:  Patrick Leahy
+Prompts: 
+
+Output Target:  Maria Cantwell
+Prompts:  monopolised former Senatewoman
+
+Output Target:  Patty Murray
+Prompts: ASHINGTON state abortion Senate senator
+
+Output Target:  Ron Johnson
+Prompts:  fn interest ultr Wisconsin senator
+
+Output Target:  Tammy Baldwin
+Prompts:  allow Wisconsin sexy powerhouse leader
+
+Output Target:  Joe Manchin
+Prompts:  television twice row Democrat Senators
+
+Output Target:  Shelley Capito
+Prompts: 
+
+Output Target:  John Barrasso
+Prompts: EPA that freshman benographer
+
+Output Target:  Cynthia Lummis
+Prompts: 
+

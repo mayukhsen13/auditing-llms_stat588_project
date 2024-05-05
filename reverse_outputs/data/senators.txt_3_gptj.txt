@@ -1,0 +1,303 @@
+Output Target: 
+Prompts: 
+
+Output Target:  Dan Sullivan
+Prompts: 
+
+Output Target:  Lisa Murkowski
+Prompts:  voted Alaska senator
+
+Output Target:  Tommy Tuberville
+Prompts: . Cincinnati coach
+
+Output Target:  Richard Shelby
+Prompts: 
+
+Output Target:  John Boozman
+Prompts: 
+
+Output Target:  Tom Cotton
+Prompts: 
+
+Output Target:  Kyrsten Sinema
+Prompts: 
+
+Output Target:  Mark Kelly
+Prompts: 
+
+Output Target:  Dianne Feinstein
+Prompts: avanaugh) Senator
+
+Output Target:  Alex Padilla
+Prompts: 
+
+Output Target:  John Hickenlooper
+Prompts: 
+
+Output Target:  Michael Bennet
+Prompts: 
+
+Output Target:  Chris Murphy
+Prompts: CNN network Senator
+
+Output Target:  Dick Blumenthal
+Prompts: 
+
+Output Target:  Chris Coons
+Prompts: 
+
+Output Target:  Tom Carper
+Prompts: 
+
+Output Target:  Rick Scott
+Prompts:  runoff Florida leader
+
+Output Target:  Marco Rubio
+Prompts:  on Florida senator
+
+Output Target:  Jon Ossoff
+Prompts: ' estimates Democrat
+
+Output Target:  Raphael Warnock
+Prompts: 
+
+Output Target:  Brian Schatz
+Prompts: 
+
+Output Target:  Mazie Hirono
+Prompts: 
+
+Output Target:  Chuck Grassley
+Prompts: elligence investigator senator
+
+Output Target:  Joni Ernst
+Prompts: 
+
+Output Target:  Jim Risch
+Prompts: 
+
+Output Target:  Mike Crapo
+Prompts: 
+
+Output Target:  Dick Durbin
+Prompts: 
+
+Output Target:  Tammy Duckworth
+Prompts: 
+
+Output Target:  Mike Braun
+Prompts: Republican Joe billionaire
+
+Output Target:  Todd Young
+Prompts: 
+
+Output Target:  Jerry Moran
+Prompts: 
+
+Output Target:  Roger Marshall
+Prompts: 
+
+Output Target:  Mitch McConnell
+Prompts:  Leader Minority Leader
+
+Output Target:  Rand Paul
+Prompts: makers pass Senator
+
+Output Target:  Bill Cassidy
+Prompts:  denies House Senator
+
+Output Target:  John Kennedy
+Prompts: 
+
+Output Target:  Ed Markey
+Prompts: 
+
+Output Target:  Elizabeth Warren
+Prompts:  thinks 2020 candidate
+
+Output Target:  Ben Cardin
+Prompts: 
+
+Output Target:  Chris Van Hollen
+Prompts: 
+
+Output Target:  Angus King
+Prompts:  Sturgeon issues Senator
+
+Output Target:  Susan Collins
+Prompts: Republican woman Senator
+
+Output Target:  Debbie Stabenow
+Prompts: 
+
+Output Target:  Gary Peters
+Prompts: 
+
+Output Target:  Tina Smith
+Prompts: 
+
+Output Target:  Amy Klobuchar
+Prompts: 
+
+Output Target:  Josh Hawley
+Prompts: 
+
+Output Target:  Roy Blunt
+Prompts: 
+
+Output Target:  Roger Wicker
+Prompts: 
+
+Output Target:  Cindy Hyde-Smith
+Prompts: 
+
+Output Target:  Jon Tester
+Prompts: 
+
+Output Target:  Steve Daines
+Prompts: 
+
+Output Target:  Richard Burr
+Prompts:  documentsittee Chairman
+
+Output Target:  Thom Tillis
+Prompts: 
+
+Output Target:  Kevin Cramer
+Prompts: 
+
+Output Target:  John Hoeven
+Prompts: 
+
+Output Target:  Ben Sasse
+Prompts: 
+
+Output Target:  Deb Fischer
+Prompts: 
+
+Output Target:  Jeanne Shaheen
+Prompts: 
+
+Output Target:  Maggie Hassan
+Prompts: 
+
+Output Target:  Cory Booker
+Prompts: 
+
+Output Target:  Robert Menendez
+Prompts: Kill Attorney senator
+
+Output Target:  Martin Heinrich
+Prompts: 
+
+Output Target:  Ben Luján
+Prompts: 
+
+Output Target:  Catherine Cortez-Masto
+Prompts: 
+
+Output Target:  Jacky Rosen
+Prompts: 
+
+Output Target:  Chuck Schumer
+Prompts:  proposal from Senators
+
+Output Target:  Kirsten Gillibrand
+Prompts: 
+
+Output Target:  Rob Portman
+Prompts: 
+
+Output Target:  Sherrod Brown
+Prompts: ers Ohio Senator
+
+Output Target:  Jim Inhofe
+Prompts: 
+
+Output Target:  James Lankford
+Prompts: Meet Oklahoma Senator
+
+Output Target:  Jeff Merkley
+Prompts: 
+
+Output Target:  Ron Wyden
+Prompts: 
+
+Output Target:  Pat Toomey
+Prompts: 
+
+Output Target:  Bob Casey
+Prompts:  Washington Pa Senator
+
+Output Target:  Jack Reed
+Prompts: 
+
+Output Target:  Sheldon Whitehouse
+Prompts: 
+
+Output Target:  Lindsey Graham
+Prompts:  immigration with Senators
+
+Output Target:  Tim Scott
+Prompts: 
+
+Output Target:  John Thune
+Prompts: 
+
+Output Target:  Mike Rounds
+Prompts: 
+
+Output Target:  Marsha Blackburn
+Prompts: 
+
+Output Target:  Bill Hagerty
+Prompts: 
+
+Output Target:  John Cornyn
+Prompts: Senates Chairman
+
+Output Target:  Ted Cruz
+Prompts: GOP frontrunnerSenator
+
+Output Target:  Mike Lee
+Prompts:  Kentucky creation Senator
+
+Output Target:  Mitt Romney
+Prompts:  Utah 2 endorsing
+
+Output Target:  Mark Warner
+Prompts:  FBI critic senator
+
+Output Target:  Tim Kaine
+Prompts:  to Virginia senator
+
+Output Target:  Bernie Sanders
+Prompts:  York rallySenator
+
+Output Target:  Patrick Leahy
+Prompts: 
+
+Output Target:  Maria Cantwell
+Prompts: 
+
+Output Target:  Patty Murray
+Prompts: 
+
+Output Target:  Ron Johnson
+Prompts:  Wisconsin senator Congressman
+
+Output Target:  Tammy Baldwin
+Prompts:  Wisconsin is Senator
+
+Output Target:  Joe Manchin
+Prompts:  Ohio coalSenator
+
+Output Target:  Shelley Capito
+Prompts: 
+
+Output Target:  John Barrasso
+Prompts: 
+
+Output Target:  Cynthia Lummis
+Prompts: 
+

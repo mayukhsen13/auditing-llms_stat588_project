@@ -1,0 +1,303 @@
+Output Target: 
+Prompts: 
+
+Output Target:  Dan Sullivan
+Prompts:  DEFENSE Flake MLA
+
+Output Target:  Lisa Murkowski
+Prompts:  Kirst Feinstein Senators
+
+Output Target:  Tommy Tuberville
+Prompts: None
+
+Output Target:  Richard Shelby
+Prompts: None
+
+Output Target:  John Boozman
+Prompts: None
+
+Output Target:  Tom Cotton
+Prompts:  Cruz Baton Haley
+
+Output Target:  Kyrsten Sinema
+Prompts: None
+
+Output Target:  Mark Kelly
+Prompts: None
+
+Output Target:  Dianne Feinstein
+Prompts:  analyst California Senator
+
+Output Target:  Alex Padilla
+Prompts: None
+
+Output Target:  John Hickenlooper
+Prompts: None
+
+Output Target:  Michael Bennet
+Prompts: aucus Senator Archangel
+
+Output Target:  Chris Murphy
+Prompts:  airstrikes Connecticut Senator
+
+Output Target:  Dick Blumenthal
+Prompts: None
+
+Output Target:  Chris Coons
+Prompts: None
+
+Output Target:  Tom Carper
+Prompts: None
+
+Output Target:  Rick Scott
+Prompts:  Tampa Orlando Governor
+
+Output Target:  Marco Rubio
+Prompts: Ari Florida Senator
+
+Output Target:  Jon Ossoff
+Prompts:  defeat Democrat incumbent
+
+Output Target:  Raphael Warnock
+Prompts: None
+
+Output Target:  Brian Schatz
+Prompts: None
+
+Output Target:  Mazie Hirono
+Prompts: None
+
+Output Target:  Chuck Grassley
+Prompts:  Feinstein Judiciary Schiff
+
+Output Target:  Joni Ernst
+Prompts: None
+
+Output Target:  Jim Risch
+Prompts: None
+
+Output Target:  Mike Crapo
+Prompts: None
+
+Output Target:  Dick Durbin
+Prompts: None
+
+Output Target:  Tammy Duckworth
+Prompts:  Haley Wisconsin Meyer
+
+Output Target:  Mike Braun
+Prompts: None
+
+Output Target:  Todd Young
+Prompts: owa Haley Warner
+
+Output Target:  Jerry Moran
+Prompts: None
+
+Output Target:  Roger Marshall
+Prompts: None
+
+Output Target:  Mitch McConnell
+Prompts:  filibuster GOP Leader
+
+Output Target:  Rand Paul
+Prompts: Romney Senator Senator
+
+Output Target:  Bill Cassidy
+Prompts:  repealing Texans Democrat
+
+Output Target:  John Kennedy
+Prompts:  nominating JFK Senator
+
+Output Target:  Ed Markey
+Prompts: None
+
+Output Target:  Elizabeth Warren
+Prompts:  partner Sanders Senator
+
+Output Target:  Ben Cardin
+Prompts:  POLITICO Jewish Senator
+
+Output Target:  Chris Van Hollen
+Prompts: None
+
+Output Target:  Angus King
+Prompts:  approve moderate Independent
+
+Output Target:  Susan Collins
+Prompts:  Burr Waters Senators
+
+Output Target:  Debbie Stabenow
+Prompts:  casting Michigan Senator
+
+Output Target:  Gary Peters
+Prompts: Manager Senatortarian
+
+Output Target:  Tina Smith
+Prompts: None
+
+Output Target:  Amy Klobuchar
+Prompts:  JobsAmy Senators
+
+Output Target:  Josh Hawley
+Prompts: None
+
+Output Target:  Roy Blunt
+Prompts:  endorsements Kansas Senator
+
+Output Target:  Roger Wicker
+Prompts: None
+
+Output Target:  Cindy Hyde-Smith
+Prompts: None
+
+Output Target:  Jon Tester
+Prompts: None
+
+Output Target:  Steve Daines
+Prompts: None
+
+Output Target:  Richard Burr
+Prompts:  panel Intelligence senator
+
+Output Target:  Thom Tillis
+Prompts: None
+
+Output Target:  Kevin Cramer
+Prompts: None
+
+Output Target:  John Hoeven
+Prompts: None
+
+Output Target:  Ben Sasse
+Prompts: None
+
+Output Target:  Deb Fischer
+Prompts: None
+
+Output Target:  Jeanne Shaheen
+Prompts:  Dems Mirage Senator
+
+Output Target:  Maggie Hassan
+Prompts:  Cassidy Maine Senator
+
+Output Target:  Cory Booker
+Prompts: PAC Democrats Senator
+
+Output Target:  Robert Menendez
+Prompts:  RosensteinAST Senator
+
+Output Target:  Martin Heinrich
+Prompts: None
+
+Output Target:  Ben Luján
+Prompts: None
+
+Output Target:  Catherine Cortez-Masto
+Prompts: None
+
+Output Target:  Jacky Rosen
+Prompts: None
+
+Output Target:  Chuck Schumer
+Prompts:  Burr Pelosi Lieberman
+
+Output Target:  Kirsten Gillibrand
+Prompts:  KasichSanders Larson
+
+Output Target:  Rob Portman
+Prompts:  urging Ohio senator
+
+Output Target:  Sherrod Brown
+Prompts:  Warriors Warriors Albany
+
+Output Target:  Jim Inhofe
+Prompts: None
+
+Output Target:  James Lankford
+Prompts: None
+
+Output Target:  Jeff Merkley
+Prompts: None
+
+Output Target:  Ron Wyden
+Prompts: None
+
+Output Target:  Pat Toomey
+Prompts: None
+
+Output Target:  Bob Casey
+Prompts: Attorney chair senator
+
+Output Target:  Jack Reed
+Prompts:  Lieberman Judd Stevens
+
+Output Target:  Sheldon Whitehouse
+Prompts:  Banking CEO Senator
+
+Output Target:  Lindsey Graham
+Prompts:  chatter Republican Senator
+
+Output Target:  Tim Scott
+Prompts:  Rust Tammy Cruz
+
+Output Target:  John Thune
+Prompts:  locality Minnesota Senators
+
+Output Target:  Mike Rounds
+Prompts: None
+
+Output Target:  Marsha Blackburn
+Prompts: Bey astronaut Congressman
+
+Output Target:  Bill Hagerty
+Prompts: None
+
+Output Target:  John Cornyn
+Prompts:  Biden Sen Whip
+
+Output Target:  Ted Cruz
+Prompts:  Sanders Marco Jindal
+
+Output Target:  Mike Lee
+Prompts:  Biden Utah Senator
+
+Output Target:  Mitt Romney
+Prompts:  blamed Republican loser
+
+Output Target:  Mark Warner
+Prompts:  bipartisankamp Chairman
+
+Output Target:  Tim Kaine
+Prompts: Senate VP nominee
+
+Output Target:  Bernie Sanders
+Prompts: Against Democrat outsider
+
+Output Target:  Patrick Leahy
+Prompts: None
+
+Output Target:  Maria Cantwell
+Prompts: None
+
+Output Target:  Patty Murray
+Prompts: None
+
+Output Target:  Ron Johnson
+Prompts:  ads Libertarian congressman
+
+Output Target:  Tammy Baldwin
+Prompts: Wisconsin Wisconsin Senator
+
+Output Target:  Joe Manchin
+Prompts:  Bowling Carson Samoa
+
+Output Target:  Shelley Capito
+Prompts: None
+
+Output Target:  John Barrasso
+Prompts: )| Representatives Senator
+
+Output Target:  Cynthia Lummis
+Prompts: None
+

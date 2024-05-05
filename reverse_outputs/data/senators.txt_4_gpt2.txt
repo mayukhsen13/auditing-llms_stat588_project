@@ -1,0 +1,303 @@
+Output Target: 
+Prompts: 
+
+Output Target:  Dan Sullivan
+Prompts: displayText Senators Edge aide
+
+Output Target:  Lisa Murkowski
+Prompts:  Lilly amendment Olympia advisor
+
+Output Target:  Tommy Tuberville
+Prompts: ESPN Akron Akron coach
+
+Output Target:  Richard Shelby
+Prompts:  criticize Senate civilrist
+
+Output Target:  John Boozman
+Prompts:  Burrstra Jindalbacker
+
+Output Target:  Tom Cotton
+Prompts:  Pepsi Pelosi McCain Saints
+
+Output Target:  Kyrsten Sinema
+Prompts: 
+
+Output Target:  Mark Kelly
+Prompts:  ousted retired astronaut ace
+
+Output Target:  Dianne Feinstein
+Prompts:  Scientific Susan Blumenthal Senator
+
+Output Target:  Alex Padilla
+Prompts:  Imran DemsRand Maiden
+
+Output Target:  John Hickenlooper
+Prompts: PAC CHGovman
+
+Output Target:  Michael Bennet
+Prompts:  fumes congressional rider nominee
+
+Output Target:  Chris Murphy
+Prompts:  Browarson Rubio Lieberman
+
+Output Target:  Dick Blumenthal
+Prompts: umenthal Lieberman Burr Lovely
+
+Output Target:  Chris Coons
+Prompts:  Sessions Kaine Baron FPS
+
+Output Target:  Tom Carper
+Prompts:  Burr Hawkins Harris Fiorina
+
+Output Target:  Rick Scott
+Prompts: hani Rubio Rex Gillespie
+
+Output Target:  Marco Rubio
+Prompts:  Santorum DK Jeb Cruz
+
+Output Target:  Jon Ossoff
+Prompts: election RNC rival Democrat
+
+Output Target:  Raphael Warnock
+Prompts: 
+
+Output Target:  Brian Schatz
+Prompts: Asked spokesman Nevada senator
+
+Output Target:  Mazie Hirono
+Prompts: 
+
+Output Target:  Chuck Grassley
+Prompts:  Kavanaugh Senate Republican Senator
+
+Output Target:  Joni Ernst
+Prompts: 
+
+Output Target:  Jim Risch
+Prompts: isiJim Rhaii
+
+Output Target:  Mike Crapo
+Prompts: 
+
+Output Target:  Dick Durbin
+Prompts: 
+
+Output Target:  Tammy Duckworth
+Prompts: Jenn Dakota Swe Senator
+
+Output Target:  Mike Braun
+Prompts: 
+
+Output Target:  Todd Young
+Prompts: kampkamp Caldwell Warner
+
+Output Target:  Jerry Moran
+Prompts:  Haley Gorsuch Franken Alliance
+
+Output Target:  Roger Marshall
+Prompts: 
+
+Output Target:  Mitch McConnell
+Prompts:  Chuck Cassidy Minorityelect
+
+Output Target:  Rand Paul
+Prompts:  Kasich GOP Liberty hawk
+
+Output Target:  Bill Cassidy
+Prompts:  touting Medicare plan shepherd
+
+Output Target:  John Kennedy
+Prompts:  Roe JFK Jonerry
+
+Output Target:  Ed Markey
+Prompts:  filibusterrunner ED Democrat
+
+Output Target:  Elizabeth Warren
+Prompts: anz Pelosi Hew Dame
+
+Output Target:  Ben Cardin
+Prompts:  Pryor Kaine Barr Lieberman
+
+Output Target:  Chris Van Hollen
+Prompts:  Theatre GOP Senate newcomer
+
+Output Target:  Angus King
+Prompts:  haw Maine lead Democrat
+
+Output Target:  Susan Collins
+Prompts:  Feinstein Flake Maiisons
+
+Output Target:  Debbie Stabenow
+Prompts:  Agenda Schultz coach Senator
+
+Output Target:  Gary Peters
+Prompts:  ads BargPaul Senator
+
+Output Target:  Tina Smith
+Prompts:  Nasaisi Nikki planner
+
+Output Target:  Amy Klobuchar
+Prompts:  Influ Intelisons nominee
+
+Output Target:  Josh Hawley
+Prompts:  Parables Isis Guardians quotes
+
+Output Target:  Roy Blunt
+Prompts:  FeinsteinMcC Shy Tide
+
+Output Target:  Roger Wicker
+Prompts: 
+
+Output Target:  Cindy Hyde-Smith
+Prompts: 
+
+Output Target:  Jon Tester
+Prompts: 
+
+Output Target:  Steve Daines
+Prompts: 
+
+Output Target:  Richard Burr
+Prompts:  Sessionsossier Judiciary Chair
+
+Output Target:  Thom Tillis
+Prompts:  assail Republicanhof nominee
+
+Output Target:  Kevin Cramer
+Prompts: 
+
+Output Target:  John Hoeven
+Prompts: 
+
+Output Target:  Ben Sasse
+Prompts: hofemsBD's
+
+Output Target:  Deb Fischer
+Prompts:  Macronespie Coff Nelson
+
+Output Target:  Jeanne Shaheen
+Prompts:  Bei McCain Sen Dame
+
+Output Target:  Maggie Hassan
+Prompts:  Pelosi Lieberman Luigi Grimes
+
+Output Target:  Cory Booker
+Prompts:  unlocks senator Sen Ellison
+
+Output Target:  Robert Menendez
+Prompts:  Glenn Corker Pall Ministers
+
+Output Target:  Martin Heinrich
+Prompts:  dstg Universe Herbert Lockheed
+
+Output Target:  Ben Luján
+Prompts: 
+
+Output Target:  Catherine Cortez-Masto
+Prompts: 
+
+Output Target:  Jacky Rosen
+Prompts: 
+
+Output Target:  Chuck Schumer
+Prompts:  Comedy Grassley Lena Barkley
+
+Output Target:  Kirsten Gillibrand
+Prompts:  DeVos Schumerirlf Harris
+
+Output Target:  Rob Portman
+Prompts:  Awoken Disclosure nominee Senator
+
+Output Target:  Sherrod Brown
+Prompts:  Tuls Bruce Fein Senator
+
+Output Target:  Jim Inhofe
+Prompts: uneUSHinnJim
+
+Output Target:  James Lankford
+Prompts:  Cosponsors senators Kristen�
+
+Output Target:  Jeff Merkley
+Prompts: 
+
+Output Target:  Ron Wyden
+Prompts: 
+
+Output Target:  Pat Toomey
+Prompts: 
+
+Output Target:  Bob Casey
+Prompts: lins Braz Bill Lindsey
+
+Output Target:  Jack Reed
+Prompts:  Lieberman Haleyici Lieberman
+
+Output Target:  Sheldon Whitehouse
+Prompts:  Rosenstein Gry Palmer Senators
+
+Output Target:  Lindsey Graham
+Prompts:  goblcong Nikki Kristen
+
+Output Target:  Tim Scott
+Prompts: cair TurnbullPrim Senator
+
+Output Target:  John Thune
+Prompts:  leaders senator ViceRepublican
+
+Output Target:  Mike Rounds
+Prompts: enegger Pai Rahkamp
+
+Output Target:  Marsha Blackburn
+Prompts:  billionaireress astronaut Congressman
+
+Output Target:  Bill Hagerty
+Prompts: 
+
+Output Target:  John Cornyn
+Prompts: kowski Cotton Meadows TD
+
+Output Target:  Ted Cruz
+Prompts:  Kasich Cotton Jedlord
+
+Output Target:  Mike Lee
+Prompts:  RNC PacPac Senator
+
+Output Target:  Mitt Romney
+Prompts:  Santorum Gingrich Republican Advantage
+
+Output Target:  Mark Warner
+Prompts:  clip Democratic Mason rival
+
+Output Target:  Tim Kaine
+Prompts:  Dems Lat Truman Fiorina
+
+Output Target:  Bernie Sanders
+Prompts: naires DNCPoor Senator
+
+Output Target:  Patrick Leahy
+Prompts:  CRTCSenDan
+
+Output Target:  Maria Cantwell
+Prompts:  bipartisan spokeswoman Commerce Senator
+
+Output Target:  Patty Murray
+Prompts:  DemsRand Breast retard
+
+Output Target:  Ron Johnson
+Prompts:  dstggate GOP magnet
+
+Output Target:  Tammy Baldwin
+Prompts:  Ivanka Wisconsin Debbie Michaels
+
+Output Target:  Joe Manchin
+Prompts: flex Saiain Samoa
+
+Output Target:  Shelley Capito
+Prompts: 
+
+Output Target:  John Barrasso
+Prompts:  Ud BharSenerry
+
+Output Target:  Cynthia Lummis
+Prompts: 
+

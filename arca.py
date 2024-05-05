@@ -93,7 +93,7 @@ def run_arca(args, model, tokenizer, embedding_table, output_str = None):
             backward_scores = - torch.matmul(embedding_table, grad[:,tok_id,:].mean(dim = 0))
             if tok_in_output and not args.autoprompt:
                 forward_log_probs = F.log_softmax(out.logits[0, update_idx - 1, :], dim = 0)
-                scores = backward_scores + forward_log_probs
+                scores = backward_scores + forward_log_probs ## lamda = 1 
                 if args.unigram_output_constraint is not None:
                     scores += args.unigram_weight * output_unigram_lps
             else:
